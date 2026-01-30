@@ -1,0 +1,28 @@
+# OS X
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.swp
+*.lock
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Local files
+*.log
+.gemini/
+.agent/
+.env
